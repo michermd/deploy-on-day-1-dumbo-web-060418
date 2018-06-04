@@ -1,8 +1,8 @@
-name: Charlie
-Last name: Tung
+Name: Charlie
+Last Name: Tung
 github: chotung
-profile picture:
-background pricture:
+Profile picture:
+Background pricture:
 Treehouse account:
 Coderwall account:
 CodeSchool account:
@@ -21,9 +21,9 @@ Background pricture:
 Treehouse account:
 Coderwall account:
 CodeSchool account:
-Favorites websites:
+Favorites websites: howstuffworks.com
 Previous work experience:
-Short Bio: 
+Short Bio:
 Twitter URL: @michermd
 LinkedIn URL: https://www.linkedin.com/in/daniel-micher-99879030/
 Education: Universidad Anahuac/UNAM - Mexico Hospital Español - Mexico
