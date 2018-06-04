@@ -23,10 +23,10 @@ Coderwall account:
 CodeSchool account:
 Favorites websites: howstuffworks.com
 Previous work experience:
-Short Bio:
+Short Bio: Coffee junkie ☕️ Pink Floyd fan 🌑 frustrated photographer 📷 yoga 🕉 and life ☯️ student 🛐 exiled cardiologist👨🏻‍⚕️❤️ newly programmer 💻 living in NYC 🗽
 Twitter URL: @michermd
 LinkedIn URL: https://www.linkedin.com/in/daniel-micher-99879030/
-Education: Universidad Anahuac/UNAM - Mexico Hospital Español - Mexico
+Education: Universidad Anahuac / UNAM - Mexico, Hospital Español - Mexico
 
 name: Robert
 Last name: Tabares
